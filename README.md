@@ -9,5 +9,5 @@ Simple Library Management System using PHP and MYSQL
 - 5. add new admin
 
 user can :
-- 1.enter book name to be searched and show search result 
+- 1. enter book name to be searched and show search result 
 - 2. display every books with details (number , book title , author name , edition , date)
